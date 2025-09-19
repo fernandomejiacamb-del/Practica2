@@ -1,4 +1,4 @@
-# Practica2: control de motor de DC  por medio de una pagina web y raspberry pico
+# Practica 2: control de motor de DC  por medio de una pagina web y raspberry pico
 📌Descripción general:
 Este proyecto combina hardware y software para crear un sistema de control de motor de CC simple y eficiente:
 El Raspberry Pi Pico ejecuta código en MicroPython, gestiona la conexión WiFi y controla el motor mediante PWM.
